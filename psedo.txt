@@ -1,0 +1,7 @@
+promt user to "do you want to continue?"
+get input from user
+check in put for condition Y or N
+if Y
+promt user to "do you want to continue?"
+If N
+disply error
